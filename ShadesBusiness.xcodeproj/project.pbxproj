@@ -14,6 +14,26 @@
 		D77670A728FE0E88003F85BD /* ShadesBusinessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D77670A628FE0E88003F85BD /* ShadesBusinessTests.swift */; };
 		D77670B128FE0E88003F85BD /* ShadesBusinessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D77670B028FE0E88003F85BD /* ShadesBusinessUITests.swift */; };
 		D77670B328FE0E88003F85BD /* ShadesBusinessUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D77670B228FE0E88003F85BD /* ShadesBusinessUITestsLaunchTests.swift */; };
+		D7EE78332910B94800A82361 /* LandView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE78322910B94800A82361 /* LandView.swift */; };
+		D7EE78382910BA9200A82361 /* Rubik-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7EE78362910BA9200A82361 /* Rubik-Italic.ttf */; };
+		D7EE78392910BA9200A82361 /* Rubik-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7EE78362910BA9200A82361 /* Rubik-Italic.ttf */; };
+		D7EE783A2910BA9200A82361 /* Rubik-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7EE78362910BA9200A82361 /* Rubik-Italic.ttf */; };
+		D7EE783B2910BA9200A82361 /* Rubik.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7EE78372910BA9200A82361 /* Rubik.ttf */; };
+		D7EE783C2910BA9200A82361 /* Rubik.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7EE78372910BA9200A82361 /* Rubik.ttf */; };
+		D7EE783D2910BA9200A82361 /* Rubik.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D7EE78372910BA9200A82361 /* Rubik.ttf */; };
+		D7EE78402910BE0D00A82361 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE783F2910BE0D00A82361 /* Constants.swift */; };
+		D7EE78412910BE0D00A82361 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE783F2910BE0D00A82361 /* Constants.swift */; };
+		D7EE78422910BE0D00A82361 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE783F2910BE0D00A82361 /* Constants.swift */; };
+		D7EE78452910BEF600A82361 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE78442910BEF600A82361 /* SignUpView.swift */; };
+		D7EE78462910BEF600A82361 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE78442910BEF600A82361 /* SignUpView.swift */; };
+		D7EE78472910BEF600A82361 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE78442910BEF600A82361 /* SignUpView.swift */; };
+		D7EE784A2910C1B500A82361 /* iPhoneNumberField in Frameworks */ = {isa = PBXBuildFile; productRef = D7EE78492910C1B500A82361 /* iPhoneNumberField */; };
+		D7EE784C2910C3CB00A82361 /* ConfirmationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE784B2910C3CA00A82361 /* ConfirmationView.swift */; };
+		D7EE784D2910C3CB00A82361 /* ConfirmationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE784B2910C3CA00A82361 /* ConfirmationView.swift */; };
+		D7EE784E2910C3CB00A82361 /* ConfirmationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE784B2910C3CA00A82361 /* ConfirmationView.swift */; };
+		D7EE78512910C61000A82361 /* CircularLayoutModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE78502910C61000A82361 /* CircularLayoutModifier.swift */; };
+		D7EE78522910C61000A82361 /* CircularLayoutModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE78502910C61000A82361 /* CircularLayoutModifier.swift */; };
+		D7EE78532910C61000A82361 /* CircularLayoutModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EE78502910C61000A82361 /* CircularLayoutModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +64,14 @@
 		D77670AC28FE0E88003F85BD /* ShadesBusinessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShadesBusinessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D77670B028FE0E88003F85BD /* ShadesBusinessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadesBusinessUITests.swift; sourceTree = "<group>"; };
 		D77670B228FE0E88003F85BD /* ShadesBusinessUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadesBusinessUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D7EE78322910B94800A82361 /* LandView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandView.swift; sourceTree = "<group>"; };
+		D7EE78362910BA9200A82361 /* Rubik-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Italic.ttf"; sourceTree = "<group>"; };
+		D7EE78372910BA9200A82361 /* Rubik.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Rubik.ttf; sourceTree = "<group>"; };
+		D7EE783E2910BB0100A82361 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		D7EE783F2910BE0D00A82361 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		D7EE78442910BEF600A82361 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		D7EE784B2910C3CA00A82361 /* ConfirmationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationView.swift; sourceTree = "<group>"; };
+		D7EE78502910C61000A82361 /* CircularLayoutModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularLayoutModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7EE784A2910C1B500A82361 /* iPhoneNumberField in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,6 +123,10 @@
 		D776709428FE0E85003F85BD /* ShadesBusiness */ = {
 			isa = PBXGroup;
 			children = (
+				D7EE783E2910BB0100A82361 /* Info.plist */,
+				D7EE78352910BA5900A82361 /* Font */,
+				D7EE784F2910C60200A82361 /* Modifier */,
+				D7EE78432910BE3700A82361 /* View */,
 				D776709528FE0E85003F85BD /* ShadesBusinessApp.swift */,
 				D776709728FE0E85003F85BD /* ContentView.swift */,
 				D776709928FE0E87003F85BD /* Assets.xcassets */,
@@ -127,6 +160,42 @@
 			path = ShadesBusinessUITests;
 			sourceTree = "<group>";
 		};
+		D7EE78312910B91E00A82361 /* Registration */ = {
+			isa = PBXGroup;
+			children = (
+				D7EE78322910B94800A82361 /* LandView.swift */,
+				D7EE78442910BEF600A82361 /* SignUpView.swift */,
+				D7EE784B2910C3CA00A82361 /* ConfirmationView.swift */,
+			);
+			path = Registration;
+			sourceTree = "<group>";
+		};
+		D7EE78352910BA5900A82361 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				D7EE78362910BA9200A82361 /* Rubik-Italic.ttf */,
+				D7EE78372910BA9200A82361 /* Rubik.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		D7EE78432910BE3700A82361 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D7EE78312910B91E00A82361 /* Registration */,
+				D7EE783F2910BE0D00A82361 /* Constants.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D7EE784F2910C60200A82361 /* Modifier */ = {
+			isa = PBXGroup;
+			children = (
+				D7EE78502910C61000A82361 /* CircularLayoutModifier.swift */,
+			);
+			path = Modifier;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +212,9 @@
 			dependencies = (
 			);
 			name = ShadesBusiness;
+			packageProductDependencies = (
+				D7EE78492910C1B500A82361 /* iPhoneNumberField */,
+			);
 			productName = ShadesBusiness;
 			productReference = D776709228FE0E85003F85BD /* ShadesBusiness.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +287,9 @@
 				Base,
 			);
 			mainGroup = D776708928FE0E85003F85BD;
+			packageReferences = (
+				D7EE78482910C1B500A82361 /* XCRemoteSwiftPackageReference "iPhoneNumberField" */,
+			);
 			productRefGroup = D776709328FE0E85003F85BD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -231,8 +306,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7EE78382910BA9200A82361 /* Rubik-Italic.ttf in Resources */,
 				D776709D28FE0E87003F85BD /* Preview Assets.xcassets in Resources */,
 				D776709A28FE0E87003F85BD /* Assets.xcassets in Resources */,
+				D7EE783B2910BA9200A82361 /* Rubik.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +317,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7EE78392910BA9200A82361 /* Rubik-Italic.ttf in Resources */,
+				D7EE783C2910BA9200A82361 /* Rubik.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +326,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7EE783A2910BA9200A82361 /* Rubik-Italic.ttf in Resources */,
+				D7EE783D2910BA9200A82361 /* Rubik.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,8 +338,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7EE78332910B94800A82361 /* LandView.swift in Sources */,
+				D7EE78512910C61000A82361 /* CircularLayoutModifier.swift in Sources */,
+				D7EE784C2910C3CB00A82361 /* ConfirmationView.swift in Sources */,
+				D7EE78452910BEF600A82361 /* SignUpView.swift in Sources */,
 				D776709828FE0E85003F85BD /* ContentView.swift in Sources */,
 				D776709628FE0E85003F85BD /* ShadesBusinessApp.swift in Sources */,
+				D7EE78402910BE0D00A82361 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +353,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D77670A728FE0E88003F85BD /* ShadesBusinessTests.swift in Sources */,
+				D7EE784D2910C3CB00A82361 /* ConfirmationView.swift in Sources */,
+				D7EE78462910BEF600A82361 /* SignUpView.swift in Sources */,
+				D7EE78522910C61000A82361 /* CircularLayoutModifier.swift in Sources */,
+				D7EE78412910BE0D00A82361 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +364,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7EE784E2910C3CB00A82361 /* ConfirmationView.swift in Sources */,
+				D7EE78532910C61000A82361 /* CircularLayoutModifier.swift in Sources */,
 				D77670B328FE0E88003F85BD /* ShadesBusinessUITestsLaunchTests.swift in Sources */,
+				D7EE78472910BEF600A82361 /* SignUpView.swift in Sources */,
 				D77670B128FE0E88003F85BD /* ShadesBusinessUITests.swift in Sources */,
+				D7EE78422910BE0D00A82361 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +514,7 @@
 				DEVELOPMENT_TEAM = 2TUV7954LX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ShadesBusiness/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -429,12 +524,12 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.Shades.ShadesBusiness;
+				MARKETING_VERSION = 1.0.8;
+				PRODUCT_BUNDLE_IDENTIFIER = production;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -449,6 +544,7 @@
 				DEVELOPMENT_TEAM = 2TUV7954LX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ShadesBusiness/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -458,12 +554,12 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.Shades.ShadesBusiness;
+				MARKETING_VERSION = 1.0.8;
+				PRODUCT_BUNDLE_IDENTIFIER = production;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -583,6 +679,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D7EE78482910C1B500A82361 /* XCRemoteSwiftPackageReference "iPhoneNumberField" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/MojtabaHs/iPhoneNumberField";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D7EE78492910C1B500A82361 /* iPhoneNumberField */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D7EE78482910C1B500A82361 /* XCRemoteSwiftPackageReference "iPhoneNumberField" */;
+			productName = iPhoneNumberField;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D776708A28FE0E85003F85BD /* Project object */;
 }
